@@ -1,0 +1,27 @@
+*.o
+*.lo
+*.la
+doc
+*.pc
+*.tar.gz
+*.patch
+*.swp
+
+# autotools stuff
+.deps/
+.libs/
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache/
+autostuff/
+config.h
+config.h.in
+config.h.in~
+config.log
+config.status
+configure
+libtool
+*-libtool
+m4/
+stamp-h1
